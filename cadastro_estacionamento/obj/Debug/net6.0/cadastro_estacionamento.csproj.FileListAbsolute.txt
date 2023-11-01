@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\cadastro_estacionamento\cadastro_estacionamento\obj\Debug\net6.0\cadastro_estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\cadastro_estacionamento\cadastro_estacionamento\obj\Debug\net6.0\cadastro_estacionamento.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\cadastro_estacionamento\cadastro_estacionamento\obj\Debug\net6.0\cadastro_estacionamento.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\cadastro_estacionamento\cadastro_estacionamento\obj\Debug\net6.0\cadastro_estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\cadastro_estacionamento\cadastro_estacionamento\bin\Debug\net6.0\cadastro_estacionamento.exe
+C:\Users\Usuario\source\repos\cadastro_estacionamento\cadastro_estacionamento\bin\Debug\net6.0\cadastro_estacionamento.deps.json
+C:\Users\Usuario\source\repos\cadastro_estacionamento\cadastro_estacionamento\bin\Debug\net6.0\cadastro_estacionamento.runtimeconfig.json
+C:\Users\Usuario\source\repos\cadastro_estacionamento\cadastro_estacionamento\bin\Debug\net6.0\cadastro_estacionamento.dll
+C:\Users\Usuario\source\repos\cadastro_estacionamento\cadastro_estacionamento\bin\Debug\net6.0\cadastro_estacionamento.pdb
+C:\Users\Usuario\source\repos\cadastro_estacionamento\cadastro_estacionamento\obj\Debug\net6.0\cadastro_estacionamento.dll
+C:\Users\Usuario\source\repos\cadastro_estacionamento\cadastro_estacionamento\obj\Debug\net6.0\refint\cadastro_estacionamento.dll
+C:\Users\Usuario\source\repos\cadastro_estacionamento\cadastro_estacionamento\obj\Debug\net6.0\cadastro_estacionamento.pdb
+C:\Users\Usuario\source\repos\cadastro_estacionamento\cadastro_estacionamento\obj\Debug\net6.0\cadastro_estacionamento.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\cadastro_estacionamento\cadastro_estacionamento\obj\Debug\net6.0\ref\cadastro_estacionamento.dll
